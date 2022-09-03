@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "vazoda-100-kirmizi-gul-at3623-1-8d59eecb9a57b15-91906970.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "vazoda-100-kirmizi-gul-at3623-1-8d59eecb9a57b15-91906970@2x.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "vazoda-100-kirmizi-gul-at3623-1-8d59eecb9a57b15-91906970@3x.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
